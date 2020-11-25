@@ -1,0 +1,37 @@
+,Neighborhood,latitude,longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+3,Buena Vista,37.8065321,-122.4206485,1.0,Sushi Restaurant,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+5,Chinatown,37.7943011,-122.4063757,2.0,Chinese Restaurant,Vietnamese Restaurant,Bakery,Cuban Restaurant,German Restaurant,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant
+6,Civic Center,37.7790262,-122.4199061,3.0,Café,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+7,Cole Valley,37.7658133,-122.4499624,2.0,Breakfast Spot,Sushi Restaurant,Italian Restaurant,Restaurant,Café,Mexican Restaurant,Middle Eastern Restaurant,Wings Joint,Cuban Restaurant,Food
+8,Cow Hollow,37.7972616,-122.4362477,2.0,American Restaurant,Sandwich Place,Italian Restaurant,French Restaurant,Thai Restaurant,BBQ Joint,Cuban Restaurant,Food Truck,Food,Ethiopian Restaurant
+11,Dogpatch,37.7606977,-122.3892016,4.0,Creperie,Food Truck,Sandwich Place,Wings Joint,French Restaurant,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+12,Duboce Triangle,37.7671382,-122.43223,1.0,Sushi Restaurant,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+14,Financial District,37.7936467,-122.3989378,2.0,Sandwich Place,Italian Restaurant,American Restaurant,Food Truck,Japanese Restaurant,Deli / Bodega,Café,German Restaurant,Seafood Restaurant,Breakfast Spot
+15,Folsom,37.7904517,-122.3895673,4.0,Food Truck,Steakhouse,Seafood Restaurant,Wings Joint,Chinese Restaurant,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+17,Glen Park,37.734281,-122.4344696,2.0,Pizza Place,Sushi Restaurant,Italian Restaurant,Breakfast Spot,Café,Mexican Restaurant,Chinese Restaurant,Cuban Restaurant,Food,Ethiopian Restaurant
+19,Hayes Valley,37.7766853,-122.4229361,2.0,Restaurant,French Restaurant,Food Truck,Thai Restaurant,Sushi Restaurant,Pizza Place,Mexican Restaurant,Creperie,Food,Ethiopian Restaurant
+22,Ingleside,37.7229872,-122.4530272,2.0,Vietnamese Restaurant,Cha Chaan Teng,Poke Place,Pakistani Restaurant,Wings Joint,Creperie,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant
+23,Jackson Square,33.69928165,-116.21465380000001,2.0,Restaurant,Wings Joint,Bakery,Italian Restaurant,Mexican Restaurant,Chinese Restaurant,Breakfast Spot,Diner,Food Truck,Food
+24,Japantown,37.7855789,-122.4298089,2.0,Japanese Restaurant,Sushi Restaurant,Ramen Restaurant,Korean Restaurant,Café,American Restaurant,Thai Restaurant,Food,Donut Shop,Chinese Restaurant
+25,Lower Haight,37.7719261,-122.4324791274891,2.0,American Restaurant,Thai Restaurant,Sushi Restaurant,BBQ Joint,Italian Restaurant,Creperie,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant
+27,Mission Bay,37.7707742,-122.3911712,4.0,Food Truck,Pizza Place,Empanada Restaurant,Donut Shop,Restaurant,Creperie,Chinese Restaurant,Food,Ethiopian Restaurant,Diner
+28,Nob Hill,37.7944792,-122.4155921,1.0,Sushi Restaurant,Deli / Bodega,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop
+29,Noe Valley,37.7515906,-122.4320814,2.0,Pizza Place,Bakery,Chinese Restaurant,Greek Restaurant,Cuban Restaurant,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant
+30,NOPA,37.7784081,-122.4425992,2.0,BBQ Joint,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+31,North Beach,37.8011749,-122.4090021,2.0,Pizza Place,Breakfast Spot,Italian Restaurant,New American Restaurant,Restaurant,Food Truck,Bakery,Cuban Restaurant,Food,Ethiopian Restaurant
+32,Ocean View,37.7136512,-122.457483,4.0,Pizza Place,Greek Restaurant,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner,Deli / Bodega
+33,Pacific Heights,37.7927171,-122.4356445,2.0,Italian Restaurant,Wings Joint,Greek Restaurant,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+37,Polk,37.7906132,-122.4205699,2.0,Indian Restaurant,Pizza Place,Diner,Vietnamese Restaurant,Burger Joint,Chinese Restaurant,Noodle House,Deli / Bodega,Italian Restaurant,Mediterranean Restaurant
+39,Potrero Hill,37.759652,-122.3980262,2.0,Seafood Restaurant,Café,Deli / Bodega,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant
+41,Russian Hill,37.8000729,-122.4170942,2.0,Mediterranean Restaurant,Wings Joint,Greek Restaurant,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+43,SoMa,37.7808925,-122.4009518,2.0,Burger Joint,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+44,South Beach,37.7798139,-122.3911499,2.0,Sushi Restaurant,Bagel Shop,Café,Mexican Restaurant,New American Restaurant,Wings Joint,Cuban Restaurant,Food Truck,Food,Ethiopian Restaurant
+45,Stonestown,37.7272845,-122.4749053,4.0,Asian Restaurant,Food Truck,Salad Place,Wings Joint,Creperie,French Restaurant,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop
+48,The Castro,37.7608561,-122.434957,2.0,Mediterranean Restaurant,Italian Restaurant,American Restaurant,Pizza Place,Indian Restaurant,New American Restaurant,Burger Joint,Café,Sushi Restaurant,Sandwich Place
+50,The Embarcadero,37.7819451,-122.3884222,4.0,Pizza Place,Asian Restaurant,Food Truck,Breakfast Spot,Sandwich Place,Creperie,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop
+52,The Marina,37.7790262,-122.4199061,3.0,Café,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+53,The Mission,37.7524984,-122.4128258,2.0,Mexican Restaurant,American Restaurant,Taco Place,Cuban Restaurant,Creperie,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop
+55,The Sunset,32.7965497,-117.1928781,2.0,Pizza Place,Taco Place,Donut Shop,Restaurant,Mexican Restaurant,Chinese Restaurant,Food,Ethiopian Restaurant,Empanada Restaurant,Diner
+56,The Tenderloin,37.7842493,-122.4139933,2.0,Ethiopian Restaurant,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Empanada Restaurant,Donut Shop,Diner,Deli / Bodega
+57,Twin Peaks,37.75464,-122.44648,0.0,Caribbean Restaurant,Wings Joint,Creperie,French Restaurant,Food Truck,Food,Ethiopian Restaurant,Empanada Restaurant,Donut Shop,Diner
+61,West Portal,37.7411405,-122.4656336,2.0,Thai Restaurant,Mexican Restaurant,Indian Chinese Restaurant,Italian Restaurant,Bakery,Sandwich Place,Breakfast Spot,Burger Joint,Café,Deli / Bodega
